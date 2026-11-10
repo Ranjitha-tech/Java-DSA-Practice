@@ -1,0 +1,9 @@
+package Day_2;
+
+public class ShortRange {
+	public static void main(String[]args) {
+		short s = 325;
+		System.out.println(s);
+	}
+
+}
